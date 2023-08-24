@@ -1,0 +1,35 @@
+.post-container {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid red;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.post-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.post-item {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid lime;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.post-body {
+    font-size: 16px;
+    color: #333;
+}
